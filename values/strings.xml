@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_version">My Coca-Cola ver 1.0</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_email">Outlook</string>
+    <string name="action_google">Google</string>
+    <string name="action_home">Home</string>
+    <string name="app_label">My Coca-Cola</string>
+    <string name="action_about">About</string>
+</resources>
